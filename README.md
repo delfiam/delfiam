@@ -1,4 +1,4 @@
-##  <img height="50" src="https://media.tenor.com/e9hWxpoRAqQAAAAM/maki.gif"/>
+##  <img height="500" src="https://media.tenor.com/e9hWxpoRAqQAAAAM/maki.gif"/>
 
 <!--
 **delfiam/delfiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
