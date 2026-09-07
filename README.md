@@ -1,4 +1,4 @@
-##  <img height="500" src="./github-header-banner.png/>
+##  <img height="500" src="./github-header-banner.png/">
 Pronombres: ella
 <!--
 **delfiam/delfiam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
